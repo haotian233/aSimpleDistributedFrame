@@ -1,4 +1,4 @@
-package com.michaelwang.serialization.serializer.impl;
+package serialization.serializer.impl;
 
 import java.util.Date;
 
