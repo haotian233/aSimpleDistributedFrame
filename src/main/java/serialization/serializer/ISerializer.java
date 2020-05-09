@@ -1,4 +1,4 @@
-package com.michaelwang.serialization.serializer;
+package serialization.serializer;
 
 public interface ISerializer {
 
