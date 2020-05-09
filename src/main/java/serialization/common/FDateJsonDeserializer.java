@@ -1,4 +1,4 @@
-package com.michaelwang.serialization.common;
+package serialization.common;
 
 import java.io.IOException;
 import java.util.Date;
