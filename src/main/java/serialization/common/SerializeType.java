@@ -1,4 +1,4 @@
-package com.michaelwang.serialization.common;
+package serialization.common;
 
 import org.apache.commons.lang.StringUtils;
 
