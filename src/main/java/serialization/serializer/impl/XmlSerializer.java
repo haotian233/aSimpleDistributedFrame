@@ -1,4 +1,4 @@
-package com.michaelwang.serialization.serializer.impl;
+package serialization.serializer.impl;
 
 import com.michaelwang.serialization.serializer.ISerializer;
 import com.thoughtworks.xstream.XStream;
