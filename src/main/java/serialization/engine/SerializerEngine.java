@@ -1,4 +1,4 @@
-package com.michaelwang.serialization.engine;
+package serialization.engine;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
